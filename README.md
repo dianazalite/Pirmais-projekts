@@ -1,2 +1,2 @@
 # Pirmais-projekts
-Šis ir mans pirmais repositorijs
+Šis ir mans pirmais repozitorijs
